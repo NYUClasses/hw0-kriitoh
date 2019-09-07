@@ -22,6 +22,6 @@ It should look something like this:
   * **Krystal Ching**
 2. Favorite Blog:
   * *What If?*
-3. [My Github Repo](https://github.com/kriitoh/biostats2019)
+3. [My Github Repo](https://github.com/NYUClasses/hw0-kriitoh)
 
 Once you are done, commit your changes, and push to GitHub. 
