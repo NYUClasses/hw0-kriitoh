@@ -10,6 +10,7 @@
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 
+# My First Github Assignment
 
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
 
@@ -18,9 +19,9 @@
 It should look something like this: 
 
 1. Name:
-  * Arnon Lieber
-2. 
-  * 
-3. 
+  * **Krystal Ching**
+2. Favorite Blog:
+  * *What If?*
+3. [My Github Repo](https://github.com/kriitoh/biostats2019)
 
 Once you are done, commit your changes, and push to GitHub. 
